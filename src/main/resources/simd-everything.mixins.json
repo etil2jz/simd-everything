@@ -3,7 +3,7 @@
 	"package": "ovh.quic.simdeverything.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"SIMDMixin"
+		"SIMDVec3Mixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
