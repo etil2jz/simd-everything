@@ -3,15 +3,15 @@
 	"id": "simd-everything",
 	"version": "${version}",
 	"name": "SIMD everything",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A lightweight Fabric mod designed to enhance the performance of some computing functions in Minecraft.",
 	"authors": [
-		"Me!"
+		"etil2jz"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/etil2jz/simd-everything",
+		"sources": "https://github.com/etil2jz/simd-everything"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0",
 	"icon": "assets/simd-everything/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -34,8 +34,5 @@
 		"minecraft": "~1.21.4",
 		"java": ">=21",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
